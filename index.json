@@ -6,5 +6,9 @@
     {
         "name": "Vietnamese (STAGING)",
         "index": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-vi/main/index.json"
+    },
+    {
+        "name": "Traditional Chinese",
+        "index": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-zh-tw/main/index.json"
     }
 ]
