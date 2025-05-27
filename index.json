@@ -1,18 +1,22 @@
 [
     {
         "name": "English",
-        "index": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-en/main/index.json"
+        "index": "https://files.leadrdrk.com/hachimi/tl-en.json"
     },
     {
-        "name": "Vietnamese (STAGING)",
-        "index": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-vi/main/index.json"
+        "name": "繁體中文",
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json"
     },
     {
-        "name": "Traditional Chinese",
-        "index": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-zh-tw/main/index.json"
-    },
-    {
-        "name": "Traditional Chinese (China Mirror)",
+        "name": "繁體中文（大陸加速鏡像）",
         "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-tw/index.json"
+    },
+    {
+        "name": "简体中文",
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json"
+    },
+    {
+        "name": "简体中文（大陆加速镜像）",
+        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-cn/index.json"
     }
 ]
