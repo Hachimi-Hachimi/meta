@@ -11,17 +11,17 @@
     },
     {
         "name": "繁體中文（大陸加速鏡像）",
-        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-tw/index.json",
+        "index": "https://fuwadl.yingqwq.cn/zh-tw/index/index.json",
         "short_desc": "yotv2000tw, LeadRDRK"
     },
     {
         "name": "简体中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
-        "short_desc": "yingyingyingqwq, LeadRDRK"
+        "short_desc": "贡献者：yingyingyingqwq, 1oschi, ChiKo-qwq, LeadRDRK 以及 Trainers' Legend G 译文仓库的所有贡献者"
     },
     {
         "name": "简体中文（大陆加速镜像）",
-        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-cn/index.json",
-        "short_desc": "yingyingyingqwq, LeadRDRK"
+        "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
+        "short_desc": "贡献者：yingyingyingqwq, 1oschi, ChiKo-qwq, LeadRDRK 以及 Trainers' Legend G 译文仓库的所有贡献者"
     }
 ]
