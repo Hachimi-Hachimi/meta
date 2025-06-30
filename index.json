@@ -7,12 +7,12 @@
     {
         "name": "繁體中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json",
-        "short_desc": "yotv2000tw, LeadRDRK"
+        "short_desc": "貢獻者：yotv2000tw, asps76482, seanpai96, LeadRDRK 以及 Trainers' Legend G 譯文倉庫的所有貢獻者"
     },
     {
         "name": "繁體中文（大陸加速鏡像）",
         "index": "https://fuwadl.yingqwq.cn/zh-tw/index/index.json",
-        "short_desc": "yotv2000tw, LeadRDRK"
+        "short_desc": "特定地區用戶可選用，與繁體中文的內容相同"
     },
     {
         "name": "简体中文",
